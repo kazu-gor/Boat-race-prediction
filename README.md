@@ -17,5 +17,5 @@ Predict No.1 boat racer in the races in Suminoe, in Japan by Using deep learning
 * Motor_No:　the motor that racer using.
 * Motor_2nd: win rate by using the motor.
 * Bote_No: the bote that racer using.
-* Bote_2nd: win rate by racer using.
+* Bote_2nd: win rate by using the bote.
 * y: answer label. winner's label is "1", otherwise "0".
